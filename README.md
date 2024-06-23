@@ -16,6 +16,6 @@ Stay tuned for more updates!
 
 ## Connect with Me
 - [Twitter](https://x.com/kaifali744)
-- [LinkedIn]([https://www.linkedin.com/in/mohammad-kaif-ali-3a19671a0/)])
+- [LinkedIn](https://www.linkedin.com/in/mohammad-kaif-ali-3a19671a0/)
 
 Looking forward to connecting and learning together! 😊
