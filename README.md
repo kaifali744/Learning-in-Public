@@ -12,6 +12,8 @@ Welcome to my journey of learning Android development in public! Here, I'll be d
 - Get feedback from the developer community
 - Stay motivated and accountable
 
+## Projects
+- [MoviesApp](https://github.com/kaifali744/MoviesApp)
 Stay tuned for more updates!
 
 ## Connect with Me
